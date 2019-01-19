@@ -1,3 +1,6 @@
+*/AUTHOR- SAUMYA GUPTA*/
+*/VERSION- 1.0.1*/
+*/PURPOSE-
 import java.util.Scanner;
 public class Month 
 {

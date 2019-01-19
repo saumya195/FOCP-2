@@ -1,3 +1,6 @@
+*/AUTHOR- SAUMYA GUPTA*/
+*/VERSION- 1.0.1*/
+*/PURPOSE- program to calculate the distance between two points (x1, y1) and (x2, y2). All numbers and return values should be of type double.*/ 
 import java.util.*;
 import java.lang.Math.*;
 class Point {
