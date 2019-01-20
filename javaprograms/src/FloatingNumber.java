@@ -1,3 +1,6 @@
+/* author :SAUMYA GUPTA 18CSU195
+   version:1.0.0
+   PURPOSE-  Write a Java program that reads in two floating-point numbers and tests   whether they are the same up to three decimal places.*/
 import java.util.*;
 class FloatingNumber{
 	public static void main(String[] args) {

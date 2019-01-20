@@ -1,6 +1,6 @@
-*/ AUTHOR- SAUMYA GUPTA(18CSU195)/*
-*/ VERSION-1.0.1/*
-*/ PURPOSE- 
+/* author :SAUMYA GUPTA 18CSU195 
+   version:1.0.0
+   PURPOSE- Write a Java program to calculate number of minutes in a day and in a year.*/
 import java.util.*;
 public class ABC 
 {

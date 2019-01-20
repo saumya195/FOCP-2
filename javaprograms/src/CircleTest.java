@@ -1,3 +1,8 @@
+/* author :SAUMYA GUPTA 18CSU195
+   version:1.0.0
+   PURPOSE - Create a class Circle with instance variable radius and member functions:
+   a) area( ) b) circumference( ) c) display( ). Write a test application named CircleTest that demonstrates class Circle’s capabilities.*/
+
 class Circle
 {
 	int radius;

@@ -1,3 +1,5 @@
+/* author :SAUMYA GUPTA 18CSU195
+   version:1.0.0*/
 import java.util.*;
 class Arr2
 {

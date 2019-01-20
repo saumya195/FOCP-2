@@ -1,6 +1,6 @@
 */AUTHOR- SAUMYA GUPTA*/
-*/VERSION- 1.0.1*/
-*/PURPOSE-1. Java program to solve quadratic equations*/
+ VERSION- 1.0.1*/
+ PURPOSE-1. Java program to solve quadratic equations*/
 import java.util.*;
 public class Quadratic_Equation
 {

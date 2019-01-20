@@ -1,3 +1,6 @@
+/* author :SAUMYA GUPTA 18CSU195
+   version:1.0.0
+   PURPOSE - Write a program to merge two sorted arrays.*/
 import java.util.*;
 
 class Merge

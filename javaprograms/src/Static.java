@@ -1,3 +1,6 @@
+/* author :SAUMYA GUPTA 18CSU195
+   version:1.0.0
+   PURPOSE-Static*/
 class Static {
 static int a = 3;
 static int b;

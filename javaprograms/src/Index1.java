@@ -1,3 +1,6 @@
+/* author :SAUMYA GUPTA 18CSU195
+   version:1.0.0
+   PURPOSE - Write a Java program to find the index of an array element in an array of size 10. The program should not use any function other than main ( ) functions.*/
 import java.util.*; 
 class Index1 { 
     public static int findIndex(int array[], int t) 

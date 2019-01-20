@@ -1,3 +1,8 @@
+/* author :SAUMYA GUPTA 18CSU195
+   version:1.0.0
+   PURPOSE - Compute the sum of the series:
+      1+x+x2 /2!+x3/3!+……*/
+
 import java.util.Scanner;
 class Series
 {

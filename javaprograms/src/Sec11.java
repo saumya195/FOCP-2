@@ -1,3 +1,15 @@
+/* author :SAUMYA GUPTA 18CSU195
+   version:1.0.0
+   PURPOSE-Write a Java program to read numbers in an integer array of size 5 and display the following (using functions for each functionality):*/
+i)	its elements.
+ii)	Sum of all the elements
+iii)	Largest number in the array
+iv)	Smallest number in the array
+v)	Second largest number in the array
+vi)	Sum of alternate elements in the array
+vii)	Count of even numbers in the array
+viii)	Occurrence of a given number in the array and its frequency
+
 import java.util.*;
 
 class Sec11

@@ -1,4 +1,7 @@
-class alpha{
+/* author :SAUMYA GUPTA 18CSU195
+   version:1.0.0 */
+class alpha
+{
 	public static void main(String args[])
 	{
 	char ch='A';
